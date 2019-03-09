@@ -5,6 +5,8 @@
   - [x] 点击"上一页"向上翻
   - [x] 点击"下一页"向下翻
   - [x] 点击某页翻到
+# 收获 
+#### 学会封装插件的思想 熟悉使用一些jQuery的方法 例如\$.fn.extend $.extend等等 代码耦合度低 功能尽量模块化  
 # 效果图
 #### 只有一页
 ![image](https://github.com/cxuhwiuefhuefu/pagePlugin/blob/master/image/page1.gif)
